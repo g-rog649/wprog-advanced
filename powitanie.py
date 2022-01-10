@@ -1,0 +1,1 @@
+print("Cześć! Jestem Grzegorz Rogoziński")
